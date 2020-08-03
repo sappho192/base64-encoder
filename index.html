@@ -134,6 +134,9 @@
 			ta.onclick = function () {
 				ta.select();
 			};
+			
+			dataUriLength = dataUri.length;
+			dataUri = dataUri.substring(22,dataUriLength-22); // Remove except content
 			ta.value = dataUri;
 			div.appendChild(ta);
 
