@@ -3,4 +3,4 @@ Base64 Encoder
 
 Running live here:
 
-http://jpillora.com/base64-encoder/
+https://sappho192.github.io/base64-encoder/
